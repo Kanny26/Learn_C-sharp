@@ -1,0 +1,15 @@
+D:\USUARIO\Documents\SENA_ADSO\Learn_C-sharp\Learn_C-sharp\bin\Debug\net8.0\Learn_C-sharp.exe
+D:\USUARIO\Documents\SENA_ADSO\Learn_C-sharp\Learn_C-sharp\bin\Debug\net8.0\Learn_C-sharp.deps.json
+D:\USUARIO\Documents\SENA_ADSO\Learn_C-sharp\Learn_C-sharp\bin\Debug\net8.0\Learn_C-sharp.runtimeconfig.json
+D:\USUARIO\Documents\SENA_ADSO\Learn_C-sharp\Learn_C-sharp\bin\Debug\net8.0\Learn_C-sharp.dll
+D:\USUARIO\Documents\SENA_ADSO\Learn_C-sharp\Learn_C-sharp\bin\Debug\net8.0\Learn_C-sharp.pdb
+D:\USUARIO\Documents\SENA_ADSO\Learn_C-sharp\Learn_C-sharp\obj\Debug\net8.0\Learn_C-sharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\USUARIO\Documents\SENA_ADSO\Learn_C-sharp\Learn_C-sharp\obj\Debug\net8.0\Learn_C-sharp.AssemblyInfoInputs.cache
+D:\USUARIO\Documents\SENA_ADSO\Learn_C-sharp\Learn_C-sharp\obj\Debug\net8.0\Learn_C-sharp.AssemblyInfo.cs
+D:\USUARIO\Documents\SENA_ADSO\Learn_C-sharp\Learn_C-sharp\obj\Debug\net8.0\Learn_C-sharp.csproj.CoreCompileInputs.cache
+D:\USUARIO\Documents\SENA_ADSO\Learn_C-sharp\Learn_C-sharp\obj\Debug\net8.0\Learn_C-sharp.sourcelink.json
+D:\USUARIO\Documents\SENA_ADSO\Learn_C-sharp\Learn_C-sharp\obj\Debug\net8.0\Learn_C-sharp.dll
+D:\USUARIO\Documents\SENA_ADSO\Learn_C-sharp\Learn_C-sharp\obj\Debug\net8.0\refint\Learn_C-sharp.dll
+D:\USUARIO\Documents\SENA_ADSO\Learn_C-sharp\Learn_C-sharp\obj\Debug\net8.0\Learn_C-sharp.pdb
+D:\USUARIO\Documents\SENA_ADSO\Learn_C-sharp\Learn_C-sharp\obj\Debug\net8.0\Learn_C-sharp.genruntimeconfig.cache
+D:\USUARIO\Documents\SENA_ADSO\Learn_C-sharp\Learn_C-sharp\obj\Debug\net8.0\ref\Learn_C-sharp.dll

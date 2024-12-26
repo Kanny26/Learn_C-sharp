@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Learn_C-sharp", "Learn_C-sharp.csproj", "{8F503B4C-A46C-4143-854A-23EDF4DDE955}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Learn_C-sharp (1)", "Learn_C-sharp\Learn_C-sharp.csproj", "{20671B68-40BE-4475-B32F-7A23F8C6C208}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F503B4C-A46C-4143-854A-23EDF4DDE955}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F503B4C-A46C-4143-854A-23EDF4DDE955}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F503B4C-A46C-4143-854A-23EDF4DDE955}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F503B4C-A46C-4143-854A-23EDF4DDE955}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20671B68-40BE-4475-B32F-7A23F8C6C208}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20671B68-40BE-4475-B32F-7A23F8C6C208}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20671B68-40BE-4475-B32F-7A23F8C6C208}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20671B68-40BE-4475-B32F-7A23F8C6C208}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E6FEA69D-F07B-423C-8366-0F147F1A0DDA}
+	EndGlobalSection
+EndGlobal
